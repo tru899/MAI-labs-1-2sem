@@ -1,4 +1,5 @@
 # MAI-labs-1-2sem
-все лабы 1-2 семестра фиита
+# made by Egor Drobyshev
+all labs* 1-2 sem FIIT
 
 *лабник Никулин
